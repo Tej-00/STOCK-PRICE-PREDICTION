@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# Stock Price Prediction using LSTM
 
 ## Project Description
 This project is a **Stock Price Prediction Web App** that predicts future stock prices using machine learning techniques.
