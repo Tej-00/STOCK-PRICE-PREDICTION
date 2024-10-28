@@ -57,4 +57,4 @@ How to Use the Project
 Contributors
 
 - [@Tej-00](https://github.com/Tej-00) - Project Lead, Model Development, Data Preprocessing
-- [@vidhiya](https://github.com/vee) - Data Collection, Documentation and Testing
+- [@Vidhiya28](https://github.com/Vidhiya28) - Data Collection, Documentation and Testing
