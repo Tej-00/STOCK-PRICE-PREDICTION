@@ -1,7 +1,7 @@
 Stock Price Prediction using LSTM
 
 Project Description
-This project is a Stock Price Prediction Web App that predicts future stock prices using machine learning techniques.
+This project is a Stock Price Prediction Web App that predicts stock prices using machine learning techniques.
 
 Key Features:
 - Utilizes a stacked Long Short-Term Memory (LSTM) model to capture the sequential nature of stock prices.
